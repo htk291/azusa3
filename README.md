@@ -2,6 +2,10 @@
 
 AZUSA 3 - AZUSA theme for reveal.js
 
+# OVERVIEW
+
+See [DEMO](http://htk291.github.io/slide/azusa3/index.html#/)
+
 # HOW TO USE
 
 `<h1>` aligned center.
