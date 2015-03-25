@@ -8,13 +8,15 @@ See [DEMO](http://htk291.github.io/slide/azusa3/index.html#/)
 
 # HOW TO USE
 
-`<h1>` aligned center.
+`<h1>` aligned center.  
 `<h2>` aligned to the left.
 
-You can set bg-color and color like this.
+You can set bg-color and color like this.  
 `<!-- .slide: data-state="navy" class="navy" -->`
 
 # COLORS
+
+Set these to `data-state` property.  
 
 * GREEN (default)
     - green
@@ -25,6 +27,9 @@ Other colors are comming soon ...
 
 # NOTE
 
+AZUSA keynote template made by 佐野章核(@sanographix)  
+    - thanks for your willing agreement to use AZUSA style.
+
 * [AZUSA](http://sanographix.github.io/azusa-keynote/)
 * [大体いい感じになるKeynoteテンプレート「Azusa」作った](http://memo.sanographix.net/post/82160791768)
 
@@ -32,5 +37,3 @@ Other colors are comming soon ...
 
 htk291 <htk291@gmail.com>  
 
-AZUSA keynote template made by 佐野章核(@sanographix)  
-    - thanks for your willing agreement to use AZUSA style.
