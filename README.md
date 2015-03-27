@@ -4,7 +4,7 @@ AZUSA 3 - AZUSA theme for reveal.js
 
 # OVERVIEW
 
-See [DEMO](http://htk291.github.io/slide/azusa3/index.html#/)
+See [DEMO](http://htk291.github.io/slide/azusa3/)
 
 # HOW TO USE
 
