@@ -2,11 +2,16 @@
 
 AZUSA 3 - AZUSA theme for reveal.js
 
+# DESCRIPTION
+
+This is AZUSA theme template for reveal.js  
+It can also use for **App::revealup**
+
 # OVERVIEW
 
-See [DEMO](http://htk291.github.io/slide/azusa3/index.html#/)
+See [DEMO](http://htk291.github.io/slide/azusa3/)
 
-# HOW TO USE
+# FEATURES
 
 `<h1>` aligned center.  
 `<h2>` aligned to the left.
